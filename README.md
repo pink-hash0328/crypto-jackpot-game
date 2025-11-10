@@ -26,4 +26,24 @@ Experience the thrill — *"Will I win the jackpot?"*
 
 ## 🚀 Getting Started
 
-### Pre
+### Prerequisites
+
+- Node.js v18+  
+- npm v9+  
+- MongoDB Atlas account (for backend data)
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/dappboris-dev/crypto-jackpot-game.git
+cd crypto-jackpot-game
+
+# Install dependencies
+npm install
+
+# Run frontend
+npm run dev
+
+# Run backend
+npm start
